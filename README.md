@@ -7,6 +7,8 @@
 支持鼓励软件付费，支持使用正版。
 支持使用科学上网进行科学研究，反对封建迷信、反动思想。·
 
+[3.19](https://github.com/zhinushannan/fuck-wall/blob/main/README.md#319)
+
 ### 3.19
 
 ```
