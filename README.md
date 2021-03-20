@@ -17,7 +17,7 @@
 
 ---
 
-[不会使用？](https://github.com/zhinushannan/fuck-wall/blob/main/%E6%95%99%E7%A8%8B.md)
+[不会使用？](https://github.com/zhinushannan/fuck-wall/blob/main/%E6%95%99%E7%A8%8B.md)   
 [历史节点](https://github.com/zhinushannan/fuck-wall/blob/main/%E5%8E%86%E5%8F%B2%E8%8A%82%E7%82%B9.md)
 
 ---
