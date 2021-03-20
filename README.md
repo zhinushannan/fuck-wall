@@ -1,11 +1,5 @@
 # fuck-wall
 
-
-
-[3.19](https://github.com/zhinushannan/fuck-wall/blob/main/README.md#319)
-
----
-
 日常更新从互联网上搜集到的节点。
 
 我不生产节点，我只是节点的搬运工。
@@ -19,7 +13,7 @@
 
 请勿使用免费节点登录或访问银行等重要隐私信息。使用节点时请遵守所在国的法律，切勿用于涉及政治、宗教、色情、犯罪等领域发布违法言论，产生一切违法后果自行负责。
 
-### 3.19
+### 3.19更新
 
 ```
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vd3d3Lm1hdHRrYXlkaWFyeS5jb2185Lit6L2sKklQTEMq5LiK5rW3Lemmmea4rypDTjItR0lBMDIiLA0KICAiYWRkIjogInRyYW5zaXRlLXNoY24yLTAyLmlwbGMxODguY29tIiwNCiAgInBvcnQiOiAiMTAwMTEiLA0KICAiaWQiOiAiMzExMzY0NDktZGYyOS00ZWQ0LTk1YTYtNTZmMTExNjFhN2IwIiwNCiAgImFpZCI6ICIxIiwNCiAgIm5ldCI6ICJ0Y3AiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAiIiwNCiAgInBhdGgiOiAiIiwNCiAgInRscyI6ICIiDQp9
