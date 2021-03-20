@@ -19,7 +19,7 @@
 
 [不会使用？](https://github.com/zhinushannan/fuck-wall/blob/main/%E6%95%99%E7%A8%8B.md)   
 [历史节点](https://github.com/zhinushannan/fuck-wall/blob/main/%E5%8E%86%E5%8F%B2%E8%8A%82%E7%82%B9.md)   
-[历史每日学习](https://github.com/zhinushannan/fuck-wall/blob/main/%E5%8E%86%E5%8F%B2%E6%AF%8F%E6%97%A5%E5%AD%A6%E4%B9%A0.md)
+[历史每日学习](https://github.com/zhinushannan/fuck-wall/blob/main/%E5%8E%86%E5%8F%B2%E6%AF%8F%E6%97%A5%E5%AD%A6%E4%B9%A0.md)   
 [3.20-每日一学习-1](https://www.toutiao.com/a6940965618728305188/)   
 [3.20-每日一学习-2](https://www.toutiao.com/a6941299616755221006/)
 
