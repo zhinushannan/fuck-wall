@@ -25,6 +25,7 @@
 
 ---
 
+[3.22](https://github.com/zhinushannan/fuck-wall#322%E6%9B%B4%E6%96%B0319%E7%9A%84%E8%BF%98%E5%8F%AF%E4%BB%A5%E7%94%A8)
 [3.21](https://github.com/zhinushannan/fuck-wall#321%E6%9B%B4%E6%96%B0319%E7%9A%84%E8%BF%98%E5%8F%AF%E4%BB%A5%E7%94%A8)   
 [3.20](https://github.com/zhinushannan/fuck-wall#320%E6%9B%B4%E6%96%B0319%E7%9A%84%E8%BF%98%E5%8F%AF%E4%BB%A5%E7%94%A8)   
 [3.19](https://github.com/zhinushannan/fuck-wall#319%E6%9B%B4%E6%96%B0)
